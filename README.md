@@ -1,6 +1,6 @@
 # Detecção Facial Bovina Nelores
 
-Respositório para técnica de detecção frontal facial bovino da raça Nelore.
+Respositório para técnica de detecção facial frontal bovino, com ênfase em raças Nelores.
 
 O melhor classificador, até o momento, apresenta acurácia de 80,77%.
 
