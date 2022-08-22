@@ -1,10 +1,10 @@
 # Detecção Facial Bovina Nelores
 
-Respositório para pesquisa de desenvolvimento para técnica de detecção frontal facial para animais bovinos da raça Nelore.
+Respositório para técnica de detecção frontal facial bovino da raça Nelore.
 
 O melhor classificador, até o momento, apresenta acurácia de 80,77%.
 
-Para utilizá-lo, basta executar o arquivo *face_cow_detect.py*, lozalizado em *./5_validacao/face_cow_detect.py*.
+Para utilizá-lo, basta executar o arquivo *face_cow_detect.py*, localizado em *./5_validacao/face_cow_detect.py*.
 
 Os módulos de interesse são apenas o 4 e 5, pois contém os dados para treinamento e validação do classificador. Seria inviável colocar os outros módulos, pois o tamanho do repositório ultrapassaria os limites de armazenamento disponibilizado pelo GitHub.
 
