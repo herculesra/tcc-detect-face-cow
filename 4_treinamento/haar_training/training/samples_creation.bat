@@ -1,0 +1,1 @@
+createsamples.exe -info positive/info.txt -vec vector/nelore_24_36.vec -num 749 -w 24 -h 36

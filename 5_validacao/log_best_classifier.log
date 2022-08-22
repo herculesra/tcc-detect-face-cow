@@ -1,0 +1,1332 @@
+2022-08-21 Sunday 23:29:47 root:INFO:====================== INICIO ======================
+
+2022-08-21 Sunday 23:31:58 root:INFO:====================== INICIO ======================
+
+2022-08-21 Sunday 23:32:21 root:INFO:====================== INICIO ======================
+
+2022-08-21 Sunday 23:32:31 root:INFO:
+============== CLASSIFICADOR: haarcascade_cow_only_frontal_30_20_30.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 30
+Total detectado para a classe 5 é de 12
+Total detectado para a classe 3 é de 26
+Total detectado para a classe 1 é de 45
+Total detectado para a classe 7 é de 6
+Total detectado para a classe 0 é de 3
+Total detectado para a classe 4 é de 14
+Total detectado para a classe 8 é de 3
+Total detectado para a classe 6 é de 8
+Total detectado para a classe 10 é de 1
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 144
+Acerto total de faces em imagens: 93
+Precisão Total = 97.30% (Certeza de detecção para ao menos uma face)
+Acurácia = 62.84% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:32:42 root:INFO:
+============== CLASSIFICADOR: haarcascade_face_cow_20_20.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 32
+Total detectado para a classe 1 é de 45
+Total detectado para a classe 5 é de 11
+Total detectado para a classe 0 é de 14
+Total detectado para a classe 4 é de 21
+Total detectado para a classe 3 é de 13
+Total detectado para a classe 6 é de 7
+Total detectado para a classe 10 é de 1
+Total detectado para a classe 7 é de 3
+Total detectado para a classe 9 é de 1
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 133
+Acerto total de faces em imagens: 55
+Precisão Total = 89.86% (Certeza de detecção para ao menos uma face)
+Acurácia = 37.16% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:32:54 root:INFO:
+============== CLASSIFICADOR: haarcascade_face_cow_24_24.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 29
+Total detectado para a classe 1 é de 43
+Total detectado para a classe 3 é de 19
+Total detectado para a classe 0 é de 17
+Total detectado para a classe 6 é de 2
+Total detectado para a classe 4 é de 15
+Total detectado para a classe 5 é de 16
+Total detectado para a classe 9 é de 1
+Total detectado para a classe 7 é de 6
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 131
+Acerto total de faces em imagens: 70
+Precisão Total = 88.51% (Certeza de detecção para ao menos uma face)
+Acurácia = 47.30% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:33:05 root:INFO:
+============== CLASSIFICADOR: haarcascade_face_cow_30_20_20.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 1 é de 23
+Total detectado para a classe 0 é de 99
+Total detectado para a classe 2 é de 20
+Total detectado para a classe 4 é de 1
+Total detectado para a classe 3 é de 5
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 49
+Acerto total de faces em imagens: 14
+Precisão Total = 33.11% (Certeza de detecção para ao menos uma face)
+Acurácia = 9.46% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:33:29 root:INFO:
+============== CLASSIFICADOR: haarcascade_face_cow_invert_20_20_20.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 8 é de 5
+Total detectado para a classe 3 é de 4
+Total detectado para a classe 26 é de 1
+Total detectado para a classe 37 é de 2
+Total detectado para a classe 34 é de 3
+Total detectado para a classe 17 é de 4
+Total detectado para a classe 21 é de 2
+Total detectado para a classe 9 é de 4
+Total detectado para a classe 38 é de 1
+Total detectado para a classe 7 é de 4
+Total detectado para a classe 14 é de 9
+Total detectado para a classe 16 é de 1
+Total detectado para a classe 29 é de 1
+Total detectado para a classe 27 é de 4
+Total detectado para a classe 4 é de 3
+Total detectado para a classe 2 é de 1
+Total detectado para a classe 12 é de 8
+Total detectado para a classe 19 é de 3
+Total detectado para a classe 13 é de 4
+Total detectado para a classe 31 é de 7
+Total detectado para a classe 22 é de 5
+Total detectado para a classe 28 é de 5
+Total detectado para a classe 5 é de 3
+Total detectado para a classe 23 é de 5
+Total detectado para a classe 15 é de 6
+Total detectado para a classe 10 é de 4
+Total detectado para a classe 32 é de 5
+Total detectado para a classe 6 é de 2
+Total detectado para a classe 18 é de 5
+Total detectado para a classe 25 é de 5
+Total detectado para a classe 11 é de 4
+Total detectado para a classe 39 é de 2
+Total detectado para a classe 57 é de 1
+Total detectado para a classe 46 é de 3
+Total detectado para a classe 33 é de 2
+Total detectado para a classe 35 é de 2
+Total detectado para a classe 42 é de 3
+Total detectado para a classe 51 é de 1
+Total detectado para a classe 52 é de 2
+Total detectado para a classe 36 é de 6
+Total detectado para a classe 78 é de 1
+Total detectado para a classe 20 é de 1
+Total detectado para a classe 48 é de 1
+Total detectado para a classe 30 é de 2
+Total detectado para a classe 47 é de 1
+========================================//========================================
+
+A classe 26 não existe nas classes de teste
+A classe 37 não existe nas classes de teste
+A classe 34 não existe nas classes de teste
+A classe 17 não existe nas classes de teste
+A classe 21 não existe nas classes de teste
+A classe 38 não existe nas classes de teste
+A classe 14 não existe nas classes de teste
+A classe 16 não existe nas classes de teste
+A classe 29 não existe nas classes de teste
+A classe 27 não existe nas classes de teste
+A classe 12 não existe nas classes de teste
+A classe 19 não existe nas classes de teste
+A classe 13 não existe nas classes de teste
+A classe 31 não existe nas classes de teste
+A classe 22 não existe nas classes de teste
+A classe 28 não existe nas classes de teste
+A classe 23 não existe nas classes de teste
+A classe 15 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+A classe 32 não existe nas classes de teste
+A classe 18 não existe nas classes de teste
+A classe 25 não existe nas classes de teste
+A classe 11 não existe nas classes de teste
+A classe 39 não existe nas classes de teste
+A classe 57 não existe nas classes de teste
+A classe 46 não existe nas classes de teste
+A classe 33 não existe nas classes de teste
+A classe 35 não existe nas classes de teste
+A classe 42 não existe nas classes de teste
+A classe 51 não existe nas classes de teste
+A classe 52 não existe nas classes de teste
+A classe 36 não existe nas classes de teste
+A classe 78 não existe nas classes de teste
+A classe 20 não existe nas classes de teste
+A classe 48 não existe nas classes de teste
+A classe 30 não existe nas classes de teste
+A classe 47 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 26
+Acerto total de faces em imagens: 0
+Precisão Total = 17.57% (Certeza de detecção para ao menos uma face)
+Acurácia = 0.00% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:34:15 root:INFO:
+============== CLASSIFICADOR: haarcascade_frontcow.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 18
+Total detectado para a classe 3 é de 18
+Total detectado para a classe 13 é de 3
+Total detectado para a classe 6 é de 16
+Total detectado para a classe 1 é de 20
+Total detectado para a classe 5 é de 11
+Total detectado para a classe 8 é de 3
+Total detectado para a classe 4 é de 15
+Total detectado para a classe 7 é de 13
+Total detectado para a classe 10 é de 8
+Total detectado para a classe 12 é de 3
+Total detectado para a classe 9 é de 9
+Total detectado para a classe 14 é de 2
+Total detectado para a classe 0 é de 1
+Total detectado para a classe 16 é de 1
+Total detectado para a classe 18 é de 2
+Total detectado para a classe 17 é de 2
+Total detectado para a classe 11 é de 3
+========================================//========================================
+
+A classe 13 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+A classe 12 não existe nas classes de teste
+A classe 14 não existe nas classes de teste
+A classe 0 não existe nas classes de teste
+A classe 16 não existe nas classes de teste
+A classe 18 não existe nas classes de teste
+A classe 17 não existe nas classes de teste
+A classe 11 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 123
+Acerto total de faces em imagens: 29
+Precisão Total = 83.11% (Certeza de detecção para ao menos uma face)
+Acurácia = 19.59% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:34:20 root:INFO:
+============== CLASSIFICADOR: haarcascade_frontcowdetector4.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 34
+Total detectado para a classe 1 é de 40
+Total detectado para a classe 5 é de 6
+Total detectado para a classe 0 é de 30
+Total detectado para a classe 4 é de 13
+Total detectado para a classe 3 é de 20
+Total detectado para a classe 6 é de 3
+Total detectado para a classe 7 é de 2
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 118
+Acerto total de faces em imagens: 51
+Precisão Total = 79.73% (Certeza de detecção para ao menos uma face)
+Acurácia = 34.46% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:35:09 root:INFO:
+============== CLASSIFICADOR: haarcascade_frontcow_20_20_30.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 9 é de 3
+Total detectado para a classe 5 é de 2
+Total detectado para a classe 29 é de 2
+Total detectado para a classe 71 é de 1
+Total detectado para a classe 34 é de 5
+Total detectado para a classe 25 é de 2
+Total detectado para a classe 42 é de 2
+Total detectado para a classe 7 é de 2
+Total detectado para a classe 43 é de 6
+Total detectado para a classe 13 é de 5
+Total detectado para a classe 14 é de 8
+Total detectado para a classe 18 é de 4
+Total detectado para a classe 51 é de 3
+Total detectado para a classe 30 é de 3
+Total detectado para a classe 10 é de 3
+Total detectado para a classe 6 é de 2
+Total detectado para a classe 21 é de 3
+Total detectado para a classe 28 é de 4
+Total detectado para a classe 15 é de 4
+Total detectado para a classe 22 é de 7
+Total detectado para a classe 27 é de 3
+Total detectado para a classe 8 é de 4
+Total detectado para a classe 12 é de 2
+Total detectado para a classe 20 é de 3
+Total detectado para a classe 4 é de 4
+Total detectado para a classe 16 é de 3
+Total detectado para a classe 24 é de 2
+Total detectado para a classe 11 é de 2
+Total detectado para a classe 40 é de 2
+Total detectado para a classe 26 é de 3
+Total detectado para a classe 44 é de 2
+Total detectado para a classe 17 é de 3
+Total detectado para a classe 33 é de 4
+Total detectado para a classe 19 é de 2
+Total detectado para a classe 23 é de 3
+Total detectado para a classe 46 é de 2
+Total detectado para a classe 52 é de 2
+Total detectado para a classe 38 é de 3
+Total detectado para a classe 55 é de 1
+Total detectado para a classe 53 é de 3
+Total detectado para a classe 83 é de 1
+Total detectado para a classe 37 é de 1
+Total detectado para a classe 32 é de 1
+Total detectado para a classe 50 é de 1
+Total detectado para a classe 156 é de 1
+Total detectado para a classe 58 é de 1
+Total detectado para a classe 124 é de 1
+Total detectado para a classe 74 é de 1
+Total detectado para a classe 49 é de 2
+Total detectado para a classe 35 é de 1
+Total detectado para a classe 39 é de 2
+Total detectado para a classe 41 é de 2
+Total detectado para a classe 70 é de 1
+Total detectado para a classe 45 é de 3
+Total detectado para a classe 75 é de 1
+Total detectado para a classe 80 é de 1
+Total detectado para a classe 36 é de 1
+Total detectado para a classe 60 é de 1
+Total detectado para a classe 84 é de 1
+========================================//========================================
+
+A classe 29 não existe nas classes de teste
+A classe 71 não existe nas classes de teste
+A classe 34 não existe nas classes de teste
+A classe 25 não existe nas classes de teste
+A classe 42 não existe nas classes de teste
+A classe 43 não existe nas classes de teste
+A classe 13 não existe nas classes de teste
+A classe 14 não existe nas classes de teste
+A classe 18 não existe nas classes de teste
+A classe 51 não existe nas classes de teste
+A classe 30 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+A classe 21 não existe nas classes de teste
+A classe 28 não existe nas classes de teste
+A classe 15 não existe nas classes de teste
+A classe 22 não existe nas classes de teste
+A classe 27 não existe nas classes de teste
+A classe 12 não existe nas classes de teste
+A classe 20 não existe nas classes de teste
+A classe 16 não existe nas classes de teste
+A classe 24 não existe nas classes de teste
+A classe 11 não existe nas classes de teste
+A classe 40 não existe nas classes de teste
+A classe 26 não existe nas classes de teste
+A classe 44 não existe nas classes de teste
+A classe 17 não existe nas classes de teste
+A classe 33 não existe nas classes de teste
+A classe 19 não existe nas classes de teste
+A classe 23 não existe nas classes de teste
+A classe 46 não existe nas classes de teste
+A classe 52 não existe nas classes de teste
+A classe 38 não existe nas classes de teste
+A classe 55 não existe nas classes de teste
+A classe 53 não existe nas classes de teste
+A classe 83 não existe nas classes de teste
+A classe 37 não existe nas classes de teste
+A classe 32 não existe nas classes de teste
+A classe 50 não existe nas classes de teste
+A classe 156 não existe nas classes de teste
+A classe 58 não existe nas classes de teste
+A classe 124 não existe nas classes de teste
+A classe 74 não existe nas classes de teste
+A classe 49 não existe nas classes de teste
+A classe 35 não existe nas classes de teste
+A classe 39 não existe nas classes de teste
+A classe 41 não existe nas classes de teste
+A classe 70 não existe nas classes de teste
+A classe 45 não existe nas classes de teste
+A classe 75 não existe nas classes de teste
+A classe 80 não existe nas classes de teste
+A classe 36 não existe nas classes de teste
+A classe 60 não existe nas classes de teste
+A classe 84 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 17
+Acerto total de faces em imagens: 0
+Precisão Total = 11.49% (Certeza de detecção para ao menos uma face)
+Acurácia = 0.00% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:35:19 root:INFO:
+============== CLASSIFICADOR: haarcascade_frontcow_20_24_40.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 4
+Total detectado para a classe 3 é de 11
+Total detectado para a classe 8 é de 7
+Total detectado para a classe 22 é de 8
+Total detectado para a classe 17 é de 7
+Total detectado para a classe 9 é de 6
+Total detectado para a classe 15 é de 6
+Total detectado para a classe 28 é de 2
+Total detectado para a classe 7 é de 10
+Total detectado para a classe 5 é de 9
+Total detectado para a classe 12 é de 4
+Total detectado para a classe 4 é de 10
+Total detectado para a classe 16 é de 4
+Total detectado para a classe 23 é de 3
+Total detectado para a classe 18 é de 1
+Total detectado para a classe 1 é de 5
+Total detectado para a classe 11 é de 5
+Total detectado para a classe 10 é de 6
+Total detectado para a classe 20 é de 5
+Total detectado para a classe 14 é de 7
+Total detectado para a classe 6 é de 4
+Total detectado para a classe 21 é de 4
+Total detectado para a classe 26 é de 2
+Total detectado para a classe 24 é de 3
+Total detectado para a classe 13 é de 3
+Total detectado para a classe 30 é de 1
+Total detectado para a classe 32 é de 1
+Total detectado para a classe 25 é de 2
+Total detectado para a classe 29 é de 2
+Total detectado para a classe 39 é de 1
+Total detectado para a classe 51 é de 1
+Total detectado para a classe 19 é de 3
+Total detectado para a classe 35 é de 1
+========================================//========================================
+
+A classe 22 não existe nas classes de teste
+A classe 17 não existe nas classes de teste
+A classe 15 não existe nas classes de teste
+A classe 28 não existe nas classes de teste
+A classe 12 não existe nas classes de teste
+A classe 16 não existe nas classes de teste
+A classe 23 não existe nas classes de teste
+A classe 18 não existe nas classes de teste
+A classe 11 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+A classe 20 não existe nas classes de teste
+A classe 14 não existe nas classes de teste
+A classe 21 não existe nas classes de teste
+A classe 26 não existe nas classes de teste
+A classe 24 não existe nas classes de teste
+A classe 13 não existe nas classes de teste
+A classe 30 não existe nas classes de teste
+A classe 32 não existe nas classes de teste
+A classe 25 não existe nas classes de teste
+A classe 29 não existe nas classes de teste
+A classe 39 não existe nas classes de teste
+A classe 51 não existe nas classes de teste
+A classe 19 não existe nas classes de teste
+A classe 35 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 66
+Acerto total de faces em imagens: 7
+Precisão Total = 44.59% (Certeza de detecção para ao menos uma face)
+Acurácia = 4.73% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:35:28 root:INFO:
+============== CLASSIFICADOR: haarcascade_frontcow_30_24_36.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 30
+Total detectado para a classe 1 é de 45
+Total detectado para a classe 4 é de 17
+Total detectado para a classe 0 é de 13
+Total detectado para a classe 6 é de 4
+Total detectado para a classe 3 é de 26
+Total detectado para a classe 7 é de 3
+Total detectado para a classe 5 é de 8
+Total detectado para a classe 8 é de 2
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 135
+Acerto total de faces em imagens: 96
+Precisão Total = 91.22% (Certeza de detecção para ao menos uma face)
+Acurácia = 64.86% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:36:13 root:INFO:
+============== CLASSIFICADOR: haarcascade_frontcow_40.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 1 é de 47
+Total detectado para a classe 5 é de 10
+Total detectado para a classe 3 é de 20
+Total detectado para a classe 0 é de 18
+Total detectado para a classe 7 é de 5
+Total detectado para a classe 2 é de 34
+Total detectado para a classe 4 é de 11
+Total detectado para a classe 6 é de 3
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 130
+Acerto total de faces em imagens: 76
+Precisão Total = 87.84% (Certeza de detecção para ao menos uma face)
+Acurácia = 51.35% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:36:18 root:INFO:
+============== CLASSIFICADOR: haarcascade_frontcow_50_50.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 4 é de 6
+Total detectado para a classe 5 é de 7
+Total detectado para a classe 19 é de 6
+Total detectado para a classe 18 é de 4
+Total detectado para a classe 14 é de 3
+Total detectado para a classe 12 é de 10
+Total detectado para a classe 9 é de 6
+Total detectado para a classe 17 é de 10
+Total detectado para a classe 6 é de 7
+Total detectado para a classe 10 é de 8
+Total detectado para a classe 26 é de 1
+Total detectado para a classe 16 é de 10
+Total detectado para a classe 8 é de 8
+Total detectado para a classe 13 é de 5
+Total detectado para a classe 21 é de 2
+Total detectado para a classe 2 é de 7
+Total detectado para a classe 15 é de 4
+Total detectado para a classe 20 é de 4
+Total detectado para a classe 11 é de 3
+Total detectado para a classe 7 é de 5
+Total detectado para a classe 23 é de 3
+Total detectado para a classe 24 é de 5
+Total detectado para a classe 22 é de 2
+Total detectado para a classe 25 é de 3
+Total detectado para a classe 30 é de 1
+Total detectado para a classe 29 é de 5
+Total detectado para a classe 32 é de 2
+Total detectado para a classe 31 é de 2
+Total detectado para a classe 28 é de 1
+Total detectado para a classe 47 é de 2
+Total detectado para a classe 54 é de 1
+Total detectado para a classe 33 é de 1
+Total detectado para a classe 37 é de 1
+Total detectado para a classe 27 é de 2
+Total detectado para a classe 53 é de 1
+========================================//========================================
+
+A classe 19 não existe nas classes de teste
+A classe 18 não existe nas classes de teste
+A classe 14 não existe nas classes de teste
+A classe 12 não existe nas classes de teste
+A classe 17 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+A classe 26 não existe nas classes de teste
+A classe 16 não existe nas classes de teste
+A classe 13 não existe nas classes de teste
+A classe 21 não existe nas classes de teste
+A classe 15 não existe nas classes de teste
+A classe 20 não existe nas classes de teste
+A classe 11 não existe nas classes de teste
+A classe 23 não existe nas classes de teste
+A classe 24 não existe nas classes de teste
+A classe 22 não existe nas classes de teste
+A classe 25 não existe nas classes de teste
+A classe 30 não existe nas classes de teste
+A classe 29 não existe nas classes de teste
+A classe 32 não existe nas classes de teste
+A classe 31 não existe nas classes de teste
+A classe 28 não existe nas classes de teste
+A classe 47 não existe nas classes de teste
+A classe 54 não existe nas classes de teste
+A classe 33 não existe nas classes de teste
+A classe 37 não existe nas classes de teste
+A classe 27 não existe nas classes de teste
+A classe 53 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 46
+Acerto total de faces em imagens: 1
+Precisão Total = 31.08% (Certeza de detecção para ao menos uma face)
+Acurácia = 0.68% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:36:27 root:INFO:
+============== CLASSIFICADOR: haarcascade_frontface_cownelore_20_24x36.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 17
+Total detectado para a classe 3 é de 16
+Total detectado para a classe 8 é de 9
+Total detectado para a classe 7 é de 11
+Total detectado para a classe 5 é de 18
+Total detectado para a classe 1 é de 28
+Total detectado para a classe 9 é de 8
+Total detectado para a classe 4 é de 18
+Total detectado para a classe 6 é de 14
+Total detectado para a classe 12 é de 3
+Total detectado para a classe 13 é de 1
+Total detectado para a classe 11 é de 2
+Total detectado para a classe 14 é de 1
+Total detectado para a classe 10 é de 2
+========================================//========================================
+
+A classe 12 não existe nas classes de teste
+A classe 13 não existe nas classes de teste
+A classe 11 não existe nas classes de teste
+A classe 14 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 139
+Acerto total de faces em imagens: 47
+Precisão Total = 93.92% (Certeza de detecção para ao menos uma face)
+Acurácia = 31.76% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:36:36 root:INFO:
+============== CLASSIFICADOR: haarcascade_frontface_cownelore_30_24x36.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 33
+Total detectado para a classe 1 é de 48
+Total detectado para a classe 5 é de 15
+Total detectado para a classe 4 é de 15
+Total detectado para a classe 3 é de 23
+Total detectado para a classe 7 é de 4
+Total detectado para a classe 0 é de 6
+Total detectado para a classe 6 é de 2
+Total detectado para a classe 8 é de 1
+Total detectado para a classe 10 é de 1
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 141
+Acerto total de faces em imagens: 109
+Precisão Total = 95.27% (Certeza de detecção para ao menos uma face)
+Acurácia = 73.65% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:37:28 root:INFO:
+============== CLASSIFICADOR: haarcascade_nelore_20_20x30.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 14 é de 1
+Total detectado para a classe 10 é de 1
+Total detectado para a classe 62 é de 1
+Total detectado para a classe 61 é de 1
+Total detectado para a classe 35 é de 3
+Total detectado para a classe 41 é de 6
+Total detectado para a classe 53 é de 2
+Total detectado para a classe 9 é de 2
+Total detectado para a classe 50 é de 2
+Total detectado para a classe 12 é de 2
+Total detectado para a classe 16 é de 1
+Total detectado para a classe 17 é de 4
+Total detectado para a classe 28 é de 5
+Total detectado para a classe 18 é de 4
+Total detectado para a classe 38 é de 3
+Total detectado para a classe 49 é de 3
+Total detectado para a classe 21 é de 3
+Total detectado para a classe 5 é de 1
+Total detectado para a classe 6 é de 3
+Total detectado para a classe 24 é de 5
+Total detectado para a classe 31 é de 5
+Total detectado para a classe 34 é de 6
+Total detectado para a classe 30 é de 3
+Total detectado para a classe 45 é de 3
+Total detectado para a classe 15 é de 1
+Total detectado para a classe 11 é de 4
+Total detectado para a classe 20 é de 5
+Total detectado para a classe 2 é de 2
+Total detectado para a classe 22 é de 5
+Total detectado para a classe 29 é de 2
+Total detectado para a classe 40 é de 2
+Total detectado para a classe 23 é de 6
+Total detectado para a classe 19 é de 4
+Total detectado para a classe 27 é de 3
+Total detectado para a classe 51 é de 2
+Total detectado para a classe 13 é de 1
+Total detectado para a classe 68 é de 1
+Total detectado para a classe 37 é de 2
+Total detectado para a classe 32 é de 2
+Total detectado para a classe 44 é de 2
+Total detectado para a classe 46 é de 1
+Total detectado para a classe 66 é de 5
+Total detectado para a classe 48 é de 1
+Total detectado para a classe 56 é de 2
+Total detectado para a classe 83 é de 1
+Total detectado para a classe 36 é de 2
+Total detectado para a classe 42 é de 2
+Total detectado para a classe 64 é de 2
+Total detectado para a classe 25 é de 1
+Total detectado para a classe 186 é de 1
+Total detectado para a classe 109 é de 1
+Total detectado para a classe 128 é de 1
+Total detectado para a classe 98 é de 1
+Total detectado para a classe 75 é de 1
+Total detectado para a classe 55 é de 1
+Total detectado para a classe 69 é de 1
+Total detectado para a classe 60 é de 2
+Total detectado para a classe 71 é de 2
+Total detectado para a classe 99 é de 1
+Total detectado para a classe 52 é de 1
+Total detectado para a classe 96 é de 1
+Total detectado para a classe 26 é de 1
+Total detectado para a classe 65 é de 2
+========================================//========================================
+
+A classe 14 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+A classe 62 não existe nas classes de teste
+A classe 61 não existe nas classes de teste
+A classe 35 não existe nas classes de teste
+A classe 41 não existe nas classes de teste
+A classe 53 não existe nas classes de teste
+A classe 50 não existe nas classes de teste
+A classe 12 não existe nas classes de teste
+A classe 16 não existe nas classes de teste
+A classe 17 não existe nas classes de teste
+A classe 28 não existe nas classes de teste
+A classe 18 não existe nas classes de teste
+A classe 38 não existe nas classes de teste
+A classe 49 não existe nas classes de teste
+A classe 21 não existe nas classes de teste
+A classe 24 não existe nas classes de teste
+A classe 31 não existe nas classes de teste
+A classe 34 não existe nas classes de teste
+A classe 30 não existe nas classes de teste
+A classe 45 não existe nas classes de teste
+A classe 15 não existe nas classes de teste
+A classe 11 não existe nas classes de teste
+A classe 20 não existe nas classes de teste
+A classe 22 não existe nas classes de teste
+A classe 29 não existe nas classes de teste
+A classe 40 não existe nas classes de teste
+A classe 23 não existe nas classes de teste
+A classe 19 não existe nas classes de teste
+A classe 27 não existe nas classes de teste
+A classe 51 não existe nas classes de teste
+A classe 13 não existe nas classes de teste
+A classe 68 não existe nas classes de teste
+A classe 37 não existe nas classes de teste
+A classe 32 não existe nas classes de teste
+A classe 44 não existe nas classes de teste
+A classe 46 não existe nas classes de teste
+A classe 66 não existe nas classes de teste
+A classe 48 não existe nas classes de teste
+A classe 56 não existe nas classes de teste
+A classe 83 não existe nas classes de teste
+A classe 36 não existe nas classes de teste
+A classe 42 não existe nas classes de teste
+A classe 64 não existe nas classes de teste
+A classe 25 não existe nas classes de teste
+A classe 186 não existe nas classes de teste
+A classe 109 não existe nas classes de teste
+A classe 128 não existe nas classes de teste
+A classe 98 não existe nas classes de teste
+A classe 75 não existe nas classes de teste
+A classe 55 não existe nas classes de teste
+A classe 69 não existe nas classes de teste
+A classe 60 não existe nas classes de teste
+A classe 71 não existe nas classes de teste
+A classe 99 não existe nas classes de teste
+A classe 52 não existe nas classes de teste
+A classe 96 não existe nas classes de teste
+A classe 26 não existe nas classes de teste
+A classe 65 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 8
+Acerto total de faces em imagens: 0
+Precisão Total = 5.41% (Certeza de detecção para ao menos uma face)
+Acurácia = 0.00% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:37:57 root:INFO:
+============== CLASSIFICADOR: haarcascade_nelore_24_40.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 9 é de 4
+Total detectado para a classe 4 é de 2
+Total detectado para a classe 46 é de 4
+Total detectado para a classe 66 é de 1
+Total detectado para a classe 37 é de 5
+Total detectado para a classe 32 é de 2
+Total detectado para a classe 56 é de 3
+Total detectado para a classe 7 é de 1
+Total detectado para a classe 41 é de 6
+Total detectado para a classe 10 é de 3
+Total detectado para a classe 17 é de 3
+Total detectado para a classe 15 é de 2
+Total detectado para a classe 18 é de 5
+Total detectado para a classe 63 é de 1
+Total detectado para a classe 40 é de 2
+Total detectado para a classe 5 é de 1
+Total detectado para a classe 12 é de 5
+Total detectado para a classe 21 é de 3
+Total detectado para a classe 38 é de 2
+Total detectado para a classe 22 é de 4
+Total detectado para a classe 26 é de 5
+Total detectado para a classe 6 é de 2
+Total detectado para a classe 20 é de 5
+Total detectado para a classe 39 é de 3
+Total detectado para a classe 28 é de 5
+Total detectado para a classe 3 é de 2
+Total detectado para a classe 16 é de 5
+Total detectado para a classe 24 é de 2
+Total detectado para a classe 49 é de 3
+Total detectado para a classe 11 é de 2
+Total detectado para a classe 8 é de 1
+Total detectado para a classe 23 é de 2
+Total detectado para a classe 29 é de 3
+Total detectado para a classe 13 é de 1
+Total detectado para a classe 47 é de 2
+Total detectado para a classe 31 é de 2
+Total detectado para a classe 34 é de 1
+Total detectado para a classe 33 é de 2
+Total detectado para a classe 42 é de 1
+Total detectado para a classe 81 é de 1
+Total detectado para a classe 52 é de 1
+Total detectado para a classe 55 é de 1
+Total detectado para a classe 92 é de 1
+Total detectado para a classe 19 é de 1
+Total detectado para a classe 44 é de 1
+Total detectado para a classe 36 é de 1
+Total detectado para a classe 30 é de 4
+Total detectado para a classe 57 é de 2
+Total detectado para a classe 45 é de 2
+Total detectado para a classe 121 é de 1
+Total detectado para a classe 85 é de 1
+Total detectado para a classe 112 é de 1
+Total detectado para a classe 43 é de 1
+Total detectado para a classe 94 é de 1
+Total detectado para a classe 67 é de 4
+Total detectado para a classe 35 é de 1
+Total detectado para a classe 25 é de 1
+Total detectado para a classe 64 é de 1
+Total detectado para a classe 60 é de 1
+Total detectado para a classe 89 é de 1
+Total detectado para a classe 61 é de 1
+Total detectado para a classe 102 é de 1
+Total detectado para a classe 50 é de 1
+Total detectado para a classe 72 é de 1
+Total detectado para a classe 53 é de 2
+Total detectado para a classe 62 é de 1
+Total detectado para a classe 95 é de 1
+Total detectado para a classe 14 é de 2
+Total detectado para a classe 68 é de 1
+========================================//========================================
+
+A classe 46 não existe nas classes de teste
+A classe 66 não existe nas classes de teste
+A classe 37 não existe nas classes de teste
+A classe 32 não existe nas classes de teste
+A classe 56 não existe nas classes de teste
+A classe 41 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+A classe 17 não existe nas classes de teste
+A classe 15 não existe nas classes de teste
+A classe 18 não existe nas classes de teste
+A classe 63 não existe nas classes de teste
+A classe 40 não existe nas classes de teste
+A classe 12 não existe nas classes de teste
+A classe 21 não existe nas classes de teste
+A classe 38 não existe nas classes de teste
+A classe 22 não existe nas classes de teste
+A classe 26 não existe nas classes de teste
+A classe 20 não existe nas classes de teste
+A classe 39 não existe nas classes de teste
+A classe 28 não existe nas classes de teste
+A classe 16 não existe nas classes de teste
+A classe 24 não existe nas classes de teste
+A classe 49 não existe nas classes de teste
+A classe 11 não existe nas classes de teste
+A classe 23 não existe nas classes de teste
+A classe 29 não existe nas classes de teste
+A classe 13 não existe nas classes de teste
+A classe 47 não existe nas classes de teste
+A classe 31 não existe nas classes de teste
+A classe 34 não existe nas classes de teste
+A classe 33 não existe nas classes de teste
+A classe 42 não existe nas classes de teste
+A classe 81 não existe nas classes de teste
+A classe 52 não existe nas classes de teste
+A classe 55 não existe nas classes de teste
+A classe 92 não existe nas classes de teste
+A classe 19 não existe nas classes de teste
+A classe 44 não existe nas classes de teste
+A classe 36 não existe nas classes de teste
+A classe 30 não existe nas classes de teste
+A classe 57 não existe nas classes de teste
+A classe 45 não existe nas classes de teste
+A classe 121 não existe nas classes de teste
+A classe 85 não existe nas classes de teste
+A classe 112 não existe nas classes de teste
+A classe 43 não existe nas classes de teste
+A classe 94 não existe nas classes de teste
+A classe 67 não existe nas classes de teste
+A classe 35 não existe nas classes de teste
+A classe 25 não existe nas classes de teste
+A classe 64 não existe nas classes de teste
+A classe 60 não existe nas classes de teste
+A classe 89 não existe nas classes de teste
+A classe 61 não existe nas classes de teste
+A classe 102 não existe nas classes de teste
+A classe 50 não existe nas classes de teste
+A classe 72 não existe nas classes de teste
+A classe 53 não existe nas classes de teste
+A classe 62 não existe nas classes de teste
+A classe 95 não existe nas classes de teste
+A classe 14 não existe nas classes de teste
+A classe 68 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 13
+Acerto total de faces em imagens: 0
+Precisão Total = 8.78% (Certeza de detecção para ao menos uma face)
+Acurácia = 0.00% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:38:06 root:INFO:
+============== CLASSIFICADOR: haarcascade_nelore_30_24_24.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 25
+Total detectado para a classe 0 é de 53
+Total detectado para a classe 1 é de 39
+Total detectado para a classe 4 é de 9
+Total detectado para a classe 3 é de 18
+Total detectado para a classe 7 é de 2
+Total detectado para a classe 5 é de 1
+Total detectado para a classe 6 é de 1
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 95
+Acerto total de faces em imagens: 39
+Precisão Total = 64.19% (Certeza de detecção para ao menos uma face)
+Acurácia = 26.35% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:38:25 root:INFO:
+============== CLASSIFICADOR: haarcascade_nelore_30_24_40.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 12
+Total detectado para a classe 4 é de 16
+Total detectado para a classe 14 é de 6
+Total detectado para a classe 9 é de 11
+Total detectado para a classe 7 é de 10
+Total detectado para a classe 3 é de 20
+Total detectado para a classe 18 é de 4
+Total detectado para a classe 5 é de 11
+Total detectado para a classe 12 é de 3
+Total detectado para a classe 10 é de 8
+Total detectado para a classe 1 é de 9
+Total detectado para a classe 6 é de 4
+Total detectado para a classe 8 é de 6
+Total detectado para a classe 11 é de 5
+Total detectado para a classe 13 é de 8
+Total detectado para a classe 20 é de 1
+Total detectado para a classe 17 é de 3
+Total detectado para a classe 15 é de 4
+Total detectado para a classe 24 é de 2
+Total detectado para a classe 23 é de 1
+Total detectado para a classe 22 é de 1
+Total detectado para a classe 19 é de 1
+Total detectado para a classe 27 é de 1
+Total detectado para a classe 16 é de 1
+========================================//========================================
+
+A classe 14 não existe nas classes de teste
+A classe 18 não existe nas classes de teste
+A classe 12 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+A classe 11 não existe nas classes de teste
+A classe 13 não existe nas classes de teste
+A classe 20 não existe nas classes de teste
+A classe 17 não existe nas classes de teste
+A classe 15 não existe nas classes de teste
+A classe 24 não existe nas classes de teste
+A classe 23 não existe nas classes de teste
+A classe 22 não existe nas classes de teste
+A classe 19 não existe nas classes de teste
+A classe 27 não existe nas classes de teste
+A classe 16 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 99
+Acerto total de faces em imagens: 9
+Precisão Total = 66.89% (Certeza de detecção para ao menos uma face)
+Acurácia = 6.08% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:38:33 root:INFO:
+============== CLASSIFICADOR: haarcascade_nelore_neg_equals_983_30_24_36.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 33
+Total detectado para a classe 1 é de 49
+Total detectado para a classe 4 é de 17
+Total detectado para a classe 6 é de 3
+Total detectado para a classe 0 é de 14
+Total detectado para a classe 3 é de 20
+Total detectado para a classe 5 é de 8
+Total detectado para a classe 7 é de 3
+Total detectado para a classe 8 é de 1
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 134
+Acerto total de faces em imagens: 91
+Precisão Total = 90.54% (Certeza de detecção para ao menos uma face)
+Acurácia = 61.49% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:38:50 root:INFO:
+============== CLASSIFICADOR: haarcascade_nelore_onlyfaces_20_20x30.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 22
+Total detectado para a classe 3 é de 16
+Total detectado para a classe 11 é de 8
+Total detectado para a classe 8 é de 7
+Total detectado para a classe 5 é de 11
+Total detectado para a classe 10 é de 6
+Total detectado para a classe 1 é de 19
+Total detectado para a classe 7 é de 13
+Total detectado para a classe 6 é de 14
+Total detectado para a classe 13 é de 6
+Total detectado para a classe 4 é de 15
+Total detectado para a classe 12 é de 1
+Total detectado para a classe 9 é de 6
+Total detectado para a classe 15 é de 1
+Total detectado para a classe 17 é de 1
+Total detectado para a classe 14 é de 2
+========================================//========================================
+
+A classe 11 não existe nas classes de teste
+A classe 10 não existe nas classes de teste
+A classe 13 não existe nas classes de teste
+A classe 12 não existe nas classes de teste
+A classe 15 não existe nas classes de teste
+A classe 17 não existe nas classes de teste
+A classe 14 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 123
+Acerto total de faces em imagens: 31
+Precisão Total = 83.11% (Certeza de detecção para ao menos uma face)
+Acurácia = 20.95% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:39:07 root:INFO:
+============== CLASSIFICADOR: haarcascade_nelore_onlyfaces_30_20x30.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 30
+Total detectado para a classe 1 é de 50
+Total detectado para a classe 4 é de 12
+Total detectado para a classe 3 é de 25
+Total detectado para a classe 7 é de 3
+Total detectado para a classe 0 é de 10
+Total detectado para a classe 5 é de 12
+Total detectado para a classe 6 é de 3
+Total detectado para a classe 8 é de 2
+Total detectado para a classe 9 é de 1
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 138
+Acerto total de faces em imagens: 102
+Precisão Total = 93.24% (Certeza de detecção para ao menos uma face)
+Acurácia = 68.92% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:39:24 root:INFO:
+============== CLASSIFICADOR: haarcascade_nelore_onlyfaces_40_20x30.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 27
+Total detectado para a classe 1 é de 55
+Total detectado para a classe 3 é de 24
+Total detectado para a classe 0 é de 24
+Total detectado para a classe 6 é de 3
+Total detectado para a classe 5 é de 5
+Total detectado para a classe 4 é de 8
+Total detectado para a classe 7 é de 2
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 124
+Acerto total de faces em imagens: 66
+Precisão Total = 83.78% (Certeza de detecção para ao menos uma face)
+Acurácia = 44.59% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:39:26 root:INFO:
+============== CLASSIFICADOR: haarcascade_nelore_onlyfaces_607_25_24x36.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 30
+Total detectado para a classe 1 é de 46
+Total detectado para a classe 0 é de 30
+Total detectado para a classe 3 é de 24
+Total detectado para a classe 6 é de 3
+Total detectado para a classe 4 é de 8
+Total detectado para a classe 7 é de 1
+Total detectado para a classe 5 é de 5
+Total detectado para a classe 8 é de 1
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 118
+Acerto total de faces em imagens: 67
+Precisão Total = 79.73% (Certeza de detecção para ao menos uma face)
+Acurácia = 45.27% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:39:28 root:INFO:
+============== CLASSIFICADOR: haarcascade_nelore_onlyfaces_607_28_24x36.xml ===================
+
+Total para a classe 2 é de 36
+Total para a classe 1 é de 47
+Total para a classe 6 é de 7
+Total para a classe 4 é de 18
+Total para a classe 3 é de 25
+Total para a classe 7 é de 3
+Total para a classe 5 é de 9
+Total para a classe 8 é de 2
+Total para a classe 9 é de 1
+Total detectado para a classe 2 é de 31
+Total detectado para a classe 1 é de 44
+Total detectado para a classe 0 é de 37
+Total detectado para a classe 3 é de 20
+Total detectado para a classe 6 é de 2
+Total detectado para a classe 4 é de 11
+Total detectado para a classe 7 é de 1
+Total detectado para a classe 8 é de 1
+Total detectado para a classe 5 é de 1
+========================================//========================================
+
+A classe 0 não existe nas classes de teste
+========================================//========================================
+
+Quantidade total de imagens analizadas: 148
+Quantidade total de imagens com faces detectadas: 111
+Acerto total de faces em imagens: 60
+Precisão Total = 75.00% (Certeza de detecção para ao menos uma face)
+Acurácia = 40.54% (Certeza da quantidade de faces encontradas seja a esperada)
+2022-08-21 Sunday 23:39:28 root:INFO:
+========================================//========================================
+ A melhor precisao total de faces foi do classificador: [haarcascade_cow_only_frontal_30_20_30.xml] com um total de 97.30% 
+ A melhor acurácia real foi do classificador: [haarcascade_frontface_cownelore_30_24x36.xml] com um total de 73.65% 
+========================================//========================================
+
+2022-08-21 Sunday 23:39:28 root:INFO:
+====================== FIM ======================
