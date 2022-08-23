@@ -106,7 +106,7 @@ print(BREAK_LINES)
 
 print("Classificador utilizado: {}".format(path_cascade_xml.split("/")[-1]))
 
-print("Quantidade total de imagens analizadas: {}".format(qtt_total_imgs))  
+print("Quantidade total de imagens analisadas: {}".format(qtt_total_imgs))  
 print("Quantidade total de imagens com faces detectadas: {}".format(precisao_total_final))
 print("Acerto total de faces em imagens: {}".format(total_real))
 
